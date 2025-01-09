@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Clătite",
+        "description": "Clătite pufoase servite cu sirop de arțar și fructe.",
+        "category": "Mic Dejun",
+        "price": "5,99 RON",
+        "ingredients": "Făină, Lapte, Ouă, Sirop de arțar"
+    },
+    {
+        "title": "Spaghetti Bolognese",
+        "description": "Paste delicioase cu sos de roșii și carne tocată.",
+        "category": "Prânz",
+        "price": "9,99 RON",
+        "ingredients": "Paste, Sos de roșii, Carne tocată"
+    },
+    {
+        "title": "Cheesecake",
+        "description": "Cheesecake cremos cu topping de fructe.",
+        "category": "Desert",
+        "price": "15,00 RON",
+        "ingredients": "Biscuiți digestivi, Unt topit, Cremă de brânză, Zahăr pudră, Smântână lichidă, Esență de vanilie, Lămâie, Ouă, Topping de fructe"
+    }
+]
